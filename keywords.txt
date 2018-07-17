@@ -12,9 +12,9 @@ G_LCD	KEYWORD1
 # Methods and Functions (KEYWORD2)
 ###########################################
 
-begin KEYWORD2
-setfont KEYWORD2
-line KEYWORD2
-gotoxy KEYWORD2
+begin	KEYWORD2
+setfont	KEYWORD2
+line	KEYWORD2
+gotoxy	KEYWORD2
 
 
